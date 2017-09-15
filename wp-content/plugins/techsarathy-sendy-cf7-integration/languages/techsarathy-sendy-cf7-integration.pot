@@ -1,0 +1,132 @@
+# Copyright (C) 2016 TechSarathy Sendy CF7 Integration
+# This file is distributed under the same license as the TechSarathy Sendy CF7 Integration package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TechSarathy Sendy CF7 Integration 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/techsarathy-sendy-"
+"cf7-integration\n"
+"POT-Creation-Date: 2016-05-07 13:44:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/TsSendyPostType.php:47
+msgid "Sendy List"
+msgstr ""
+
+#: classes/TsSendyPostType.php:48
+msgid "Add Sendy List"
+msgstr ""
+
+#: classes/TsSendyPostType.php:49
+msgid "Add New Sendy List"
+msgstr ""
+
+#: classes/TsSendyPostType.php:50
+msgid "Edit Sendy List"
+msgstr ""
+
+#: classes/TsSendyPostType.php:51
+msgid "New Sendy List"
+msgstr ""
+
+#: classes/TsSendyPostType.php:52
+msgid "View Sendy List"
+msgstr ""
+
+#: classes/TsSendyPostType.php:53
+msgid "Search Sendy List"
+msgstr ""
+
+#: classes/TsSendyPostType.php:54 classes/TsSendyPostType.php:55
+msgid "No Sendy List found"
+msgstr ""
+
+#: classes/TsSendyPostType.php:117
+msgid "List information"
+msgstr ""
+
+#: classes/TsSendyPostType.php:159
+msgid "Sendy List created"
+msgstr ""
+
+#: classes/TsSendyPostType.php:163
+msgid "Sendy List updated"
+msgstr ""
+
+#: classes/TsSendyPostType.php:181
+msgid ""
+"To use this List in your website add this piece of shortcode to your posts "
+"or pages"
+msgstr ""
+
+#: classes/TsSendyPostType.php:187
+msgid "List Name:"
+msgstr ""
+
+#: classes/TsSendyPostType.php:194
+msgid "List Id:"
+msgstr ""
+
+#: classes/TsSendySettings.php:61 classes/TsSendySettings.php:62
+msgid "Settings"
+msgstr ""
+
+#: classes/TsSendySettings.php:110
+msgid "Yes"
+msgstr ""
+
+#: classes/TsSendySettings.php:111
+msgid "No"
+msgstr ""
+
+#: classes/TsSendySettings.php:134
+msgid "Sendy API Key"
+msgstr ""
+
+#: classes/TsSendySettings.php:135
+msgid "Sendy Installation URL"
+msgstr ""
+
+#: classes/TsSendySettings.php:136
+msgid "URL to redirect after successfull subscription"
+msgstr ""
+
+#: classes/TsSendySettings.php:137
+msgid "Response message to be shown upon successfull subscription"
+msgstr ""
+
+#: classes/TsSendySettings.php:138
+msgid ""
+"Whether you want to skip sending the mail or not.By default mail is not "
+"sent. Set it to 'No' if you want to send the mail."
+msgstr ""
+
+#: classes/TsSendySettings.php:144 classes/TsSendySettings.php:146
+#: classes/TsSendySettings.php:148 classes/TsSendySettings.php:150
+#: classes/TsSendySettings.php:152
+msgid "Default"
+msgstr ""
+
+#: views/TsSendySettings/general-settings.php:16
+msgid "Default Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TechSarathy Sendy CF7 Integration"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Sendy integration for Contact Form 7"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rahul Taiwala"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.rktaiwala.in"
+msgstr ""
